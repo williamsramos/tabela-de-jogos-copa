@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "rodada": "Oitavas de final 1",
+        "diaSemana": "SÁB",
+        "data": "03/12/2022",
+        "hora": "12:00",
+        "estadio": "INTERNACIONAL KHALIFA",
+        "partida": "HOL 3 x 1 EUA",
+        "mandante": "holanda.svg",
+        "visitante": "estados_unidos.svg"
+    },
+    {
+        "id": 2,
+        "rodada": "Oitavas de final 2",
+        "diaSemana": "SÁB",
+        "data": "03/12/2022",
+        "hora": "16:00",
+        "estadio": "AL RAYYAN",
+        "partida": "ARG 2 x 1 AUS",
+        "mandante": "argentina.svg",
+        "visitante": "australia.svg"
+    },
+    {
+        "id": 3,
+        "rodada": "Oitavas de final 3",
+        "diaSemana": "SEG",
+        "data": "05/12/2022",
+        "hora": "12:00",
+        "estadio": "AL WAKRAH",
+        "partida": "JAP 1 (1) x 1 (3) CRO",
+        "mandante": "japao.svg",
+        "visitante": "croacia.svg"
+    },
+    {
+        "id": 4,
+        "rodada": "Oitavas de final 4",
+        "diaSemana": "SEG",
+        "data": "05/12/2022",
+        "hora": "16:00",
+        "estadio": "PORTO DE DOHA",
+        "partida": "BRA 4 x 1 COR",
+        "mandante": "brasil.svg",
+        "visitante": "coreia_do_sul.svg"
+    },
+    {
+        "id": 5,
+        "rodada": "Oitavas de final 5",
+        "diaSemana": "DOM",
+        "data": "04/12/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "partida": "ING 3 x 0 SEN",
+        "mandante": "inglaterra.svg",
+        "visitante": "senegal.svg"
+    },
+    {
+        "id": 6,
+        "rodada": "Oitavas de final 6",
+        "diaSemana": "DOM",
+        "data": "04/12/2022",
+        "hora": "12:00",
+        "estadio": "AL THUMAMA",
+        "partida": "FRA 3 x 1 POL",
+        "mandante": "franca.svg",
+        "visitante": "polonia.svg"
+    },
+    {
+        "id": 7,
+        "rodada": "Oitavas de final 7",
+        "diaSemana": "TER",
+        "data": "06/12/2022",
+        "hora": "12:00",
+        "estadio": "CIDADE DA EDUCAÇÃO",
+        "partida": "MAR 0(3) x (0) 0  ESP",
+        "mandante": "marrocos.svg",
+        "visitante": "espanha.svg"
+    },
+    {
+        "id": 8,
+        "rodada": "Oitavas de final 8",
+        "diaSemana": "TER",
+        "data": "06/12/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "POR 6 x 1 SUI",
+        "mandante": "portugal.svg",
+        "visitante": "suica.svg"
+    },
+    {
+        "id": 9,
+        "rodada": "Quartas de final 1",
+        "diaSemana": "SEX",
+        "data": "09/12/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "HOL 2 (3) x (4) 2 ARG",
+        "mandante": "holanda.svg",
+        "visitante": "argentina.svg"
+    },
+    {
+        "id": 10,
+        "rodada": "Quartas de final 2",
+        "diaSemana": "SEX",
+        "data": "09/12/2022",
+        "hora": "12:00",
+        "estadio": "CIDADE DA EDUCAÇÃO",
+        "partida": "CRO 1 (4) x (2) 1  BRA",
+        "mandante": "croacia.svg",
+        "visitante": "brasil.svg"
+    },
+    {
+        "id": 11,
+        "rodada": "Quartas de final 3",
+        "diaSemana": "SÁB",
+        "data": "10/12/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "partida": "ING 1 x 2 FRA",
+        "mandante": "inglaterra.svg",
+        "visitante": "franca.svg"
+    },
+    {
+        "id": 12,
+        "rodada": "Quartas de final 4",
+        "diaSemana": "SÁB",
+        "data": "10/12/2022",
+        "hora": "12:00",
+        "estadio": "AL THUMAMA",
+        "partida": "MAR 1 x 0 POR",
+        "mandante": "marrocos.svg",
+        "visitante": "portugal.svg"
+    },
+    {
+        "id": 13,
+        "rodada": "Semi final 1",
+        "diaSemana": "TER",
+        "data": "13/12/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "ARG x CRO",
+        "mandante": "argentina.svg",
+        "visitante": "croacia.svg"
+    },
+    {
+        "id": 14,
+        "rodada": "Semi final 2",
+        "diaSemana": "QUA",
+        "data": "14/12/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "partida": "FRA x MAR",
+        "mandante": "franca.svg",
+        "visitante": "marrocos.svg"
+    },
+    {
+        "id": 15,
+        "rodada": "Terceiro lugar",
+        "diaSemana": "SÁB",
+        "data": "17/12/2022",
+        "hora": "12:00",
+        "estadio": "INTERNACIONAL KHALIFA",
+        "partida": "CRO 2 x 1 MAR",
+        "mandante": "criacia.svg",
+        "visitante": "marrocos.svg"
+    },
+    {
+        "id": 16,
+        "rodada": "Final",
+        "diaSemana": "DOM",
+        "data": "18/12/2022",
+        "hora": "12:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "ARG 3(4) x(2) 3 FRA",
+        "mandante": "argentina.svg",
+        "visitante": "franca.svg"
+    }
+]
